@@ -1,0 +1,6 @@
+name: env_rgat
+dependencies:
+  - python==3.6.3
+  - pip:
+    - "--editable=."
+    - tensorflow==1.12
