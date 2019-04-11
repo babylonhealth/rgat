@@ -19,7 +19,7 @@ with open('README.md') as f:
 
 setup(
     name='rgat',
-    version='0.0.1',
+    version='1.0.0',
     description='Relational Graph Attention Networks.',
     long_description=readme,
     author='Babylon ML team',
