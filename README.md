@@ -47,9 +47,11 @@ This will result in the identity matrix for the input (but skipping the trivial 
 
 Please cite our paper if you use this code in your own work:
 ```
-@unpublished{Busbridge2018
-author = "Dan Busbridge, Dane Sherburn, Pietro Cavallo, Nils Y. Hammerla",
-title = "Relational Graph Attention Networks",
-note = "Submitted to ICLR 2018",
+@article{busbridge2019rgat,
+title = {Relational Graph Attention Networks},
+author = {Busbridge, Dan and Sherburn, Dane and Cavallo, Pietro and Hammerla, Nils Y},
+year = {2019},
+eprint = {arXiv:1904.05811},
+url = {http://arxiv.org/abs/1904.05811}
 }
 ```
