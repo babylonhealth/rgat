@@ -1,3 +1,6 @@
+> **Note**
+> This repository is no longer actively maintained by Babylon Health. For further assistance, reach out to the paper authors.
+
 # Relational Graph Attention Networks
 
 A TensorFlow implementation of Relational Graph Attention Networks for semi-supervised node classification and graph classification tasks introduced in our paper [Relational Graph Attention Networks](https://openreview.net/forum?id=Bklzkh0qFm). It is compatible with static and eager execution modes.
